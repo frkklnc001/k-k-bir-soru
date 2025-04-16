@@ -1,1 +1,1 @@
-# k-k-bir-soru
+# kucuk-bir-soru
